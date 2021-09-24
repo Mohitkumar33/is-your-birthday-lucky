@@ -46,6 +46,10 @@ input {
   border-top-right-radius: 1rem;
 }
 
+.footer .heading {
+  color: rgb(7, 184, 1);
+}
+
 .footer .footer-header {
   font-weight: bold;
   font-size: large;
