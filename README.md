@@ -8,4 +8,4 @@ The user needs to enter the date of birth  and his lucky number and then our web
 
 I keep on trying new ideas to make good command on javascript.
 
-[website link](https://replit.com/@Mohitkumar62/end-game#index.js?embed=1&output=1)
+[website link](https://lucky-birthday-website.netlify.app/)
